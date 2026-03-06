@@ -7,7 +7,7 @@
 
 A high-performance, futuristic portfolio designed for a Backend/MERN Stack Engineer. Built to demonstrate advanced UI/UX engineering, complex state management, and an eye for top-tier design.
 
-**🌐 Live Demo:** [Click here to view the live portfolio]([https://abhishek-portfolio-three-psi.vercel.app/])
+**🌐 Live Demo:** [Click here to view the live portfolio](https://abhishek-portfolio-three-psi.vercel.app)
 
 ---
 
