@@ -7,7 +7,7 @@ export const portfolioData = {
     email: "abhishekchauhan4201@gmail.com",
     phone: "+91 9054277372",
     linkedin: "https://www.linkedin.com/in/abhishek-c-9b1766255/",
-    resumeFile: "/Abhishek_Chauhan_Resume.pdf"
+    resumeFile: "/resume.pdf"
   },
   experience: [
     {
