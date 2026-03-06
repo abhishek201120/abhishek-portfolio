@@ -13,7 +13,7 @@ export const portfolioData = {
     {
       company: "Leeway Softech Pvt Ltd",
       role: "MERN Stack Developer",
-      dates: "Dec 2023 - Present",
+      dates: "Dec 2025 - Present",
       location: "Bhavnagar, India",
       bullets: [
         "Built complete ERP backend using Node.js, Express.js, and MongoDB.",

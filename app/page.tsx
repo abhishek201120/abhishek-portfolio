@@ -128,7 +128,7 @@ export default function Portfolio() {
               <MagneticButton onClick={() => document.getElementById("experience")?.scrollIntoView({ behavior: "smooth" })} className="gap-2 px-8 py-4 font-bold text-white transition-all rounded-lg bg-gradient-to-r from-cyan-500 to-blue-600 shadow-[0_0_20px_rgba(34,211,238,0.3)] hover:shadow-[0_0_30px_rgba(34,211,238,0.5)]">
                 View Architecture <ChevronRight className="w-5 h-5" />
               </MagneticButton>
-              <MagneticButton href={portfolioData.personal.resumeFile} download className="gap-2 px-8 py-4 font-bold transition-all border rounded-lg text-slate-200 border-slate-600 bg-slate-900/50 hover:bg-slate-800 hover:text-white">
+              <MagneticButton href={portfolioData.personal.resumeFile} download="Abhishek_Chauhan_Resume.pdf  " className="gap-2 px-8 py-4 font-bold transition-all border rounded-lg text-slate-200 border-slate-600 bg-slate-900/50 hover:bg-slate-800 hover:text-white">
                 <Download className="w-5 h-5" /> Download Resume
               </MagneticButton>
             </div>

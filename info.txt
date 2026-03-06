@@ -1,11 +1,3 @@
-/portfolio
-├── package.json
-├── tailwind.config.ts
-├── /app
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-└── /components
-    ├── AnimatedBackground.tsx
-    ├── SplashScreen.tsx
-    └── ExperienceCard.tsx
+git add .
+git commit -m "Added new project"
+git push
